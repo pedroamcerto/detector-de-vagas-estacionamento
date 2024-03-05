@@ -1,0 +1,16 @@
+{
+    "visao" :{
+        "mostrar_binaria": false,
+        "mostrar_qtd_pixels_brancos": false,
+        "mostrar_titulo": true,
+        "mostrar_retangulo": true,
+        "espessura_do_retangulo": 1
+    },
+    "cores": {
+        "titulo": [0, 0, 0],
+        "vaga_livre": [0, 255, 0],
+        "vaga_utilizada": [0, 0, 255],
+        "txt_qtd_pixels_brancos": [255, 255, 255]
+    },
+    "max_pixels_brancos": 3000
+}

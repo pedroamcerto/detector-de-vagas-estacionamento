@@ -1,2 +1,2 @@
-# contador de vagas opencv
+# Contador de vagas com OPENCV
  
