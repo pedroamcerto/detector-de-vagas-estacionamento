@@ -13,7 +13,7 @@ Este projeto é um sistema de detecção de vagas de estacionamento em vídeos u
 
 1. Clone este repositório para o seu computador:
 ```
-git clone https://github.com/pedroamcerto/contador-de-vagas-opencv.git
+git clone https://github.com/pedroamcerto/detector-de-vagas-estacionamento.git
 ```
 2. Instale as dependências:
 ```
